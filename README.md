@@ -1,3 +1,21 @@
+
+For run this project you have download this project and you have initialize npm then you will run this application.
+
+
+  [Live site](https://merry-froyo-b04110.netlify.app/)
+
+  I did not use redux but i can adopt within a week.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +86,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# To-do-application
