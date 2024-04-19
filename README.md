@@ -2,16 +2,9 @@
 For run this project you have download this project and you have initialize npm then you will run this application.
 
 
-  [Live site](https://merry-froyo-b04110.netlify.app/)
+  [Live site](https://loquacious-cannoli-31a45c.netlify.app/)
 
   I did not use redux but i can adopt within a week.
-
-
-
-
-
-
-
 
 
 
